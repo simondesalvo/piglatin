@@ -1,0 +1,12 @@
+/Users/simon/Documents/GrandCircus/piglatin/obj/Debug/netcoreapp3.1/piglatin.csprojAssemblyReference.cache
+/Users/simon/Documents/GrandCircus/piglatin/obj/Debug/netcoreapp3.1/piglatin.AssemblyInfoInputs.cache
+/Users/simon/Documents/GrandCircus/piglatin/obj/Debug/netcoreapp3.1/piglatin.AssemblyInfo.cs
+/Users/simon/Documents/GrandCircus/piglatin/obj/Debug/netcoreapp3.1/piglatin.csproj.CoreCompileInputs.cache
+/Users/simon/Documents/GrandCircus/piglatin/bin/Debug/netcoreapp3.1/piglatin.deps.json
+/Users/simon/Documents/GrandCircus/piglatin/bin/Debug/netcoreapp3.1/piglatin.runtimeconfig.json
+/Users/simon/Documents/GrandCircus/piglatin/bin/Debug/netcoreapp3.1/piglatin.runtimeconfig.dev.json
+/Users/simon/Documents/GrandCircus/piglatin/bin/Debug/netcoreapp3.1/piglatin.dll
+/Users/simon/Documents/GrandCircus/piglatin/bin/Debug/netcoreapp3.1/piglatin.pdb
+/Users/simon/Documents/GrandCircus/piglatin/obj/Debug/netcoreapp3.1/piglatin.dll
+/Users/simon/Documents/GrandCircus/piglatin/obj/Debug/netcoreapp3.1/piglatin.pdb
+/Users/simon/Documents/GrandCircus/piglatin/obj/Debug/netcoreapp3.1/piglatin.genruntimeconfig.cache
